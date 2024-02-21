@@ -34,7 +34,7 @@ app.post('/analyze', async (req, res) => {
 
     // Call YouTube API to get video details
     const response = await axios.get(
-      `https://www.googleapis.com/youtube/v3/videos?id=${videoId}&part=snippet,statistics&key=AIzaSyAdQ721sCGd54xSqYYhMXYATzEi52S7jRg`
+      `https://www.googleapis.com/youtube/v3/videos?id=${videoId}&part=snippet,statistics&key=YOUR_KEY`
     );
 
     const videoDetails = response.data.items[0].snippet;
