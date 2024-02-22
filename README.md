@@ -1,6 +1,3 @@
-# YouTubeAnalyser_MERN
-Analysing the YouTube Video
-
 # YouTube Video Analyzer
 
 ## Overview
