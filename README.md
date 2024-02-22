@@ -49,6 +49,6 @@ The project follows the MERN stack structure, with separate folders for the fron
  
 ## Usage
 
-- Access the application in your browser at http://localhost:3000.
-- Input a YouTube video link from the desired channel and click on the "Analyze" button.
+- Access the application in your browser at `http://localhost:3000`.
+- Input a YouTube video link from the desired channel and click on the `Analyze` button.
 - View the analysis result, including the Earning Potential and information about the top-performing videos.
