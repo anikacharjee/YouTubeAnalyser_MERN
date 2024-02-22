@@ -37,3 +37,7 @@ The project follows the MERN stack structure, with separate folders for the fron
  - `cd server`
  - `npm install`
 
+## YouTube API Key
+
+- Obtain a **YouTube API Key** and replace `YOUR_KEY` in server/server.js.
+
