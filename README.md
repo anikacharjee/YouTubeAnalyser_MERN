@@ -41,3 +41,8 @@ The project follows the MERN stack structure, with separate folders for the fron
 
 - Obtain a **YouTube API Key** and replace `YOUR_KEY` in server/server.js.
 
+## Development Servers
+
+- Run the development servers:
+  - Under `client` folder/directory - `npm start`
+  - Under `server` folder/directory - `node server.js`
