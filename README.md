@@ -24,4 +24,16 @@ The project follows the MERN stack structure, with separate folders for the fron
 
 - **server:** Contains the Node.js backend.
   - **server.js:** Main file for the backend logic.
+ 
+## Dependencies
+
+- Install **dependencies** for both the `client` and `server`:
+
+### Client -
+  - `cd client`
+  - `npm install`
+
+### Server -
+ - `cd server`
+ - `npm install`
 
